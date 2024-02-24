@@ -1,4 +1,4 @@
-apiVersion: kpt.dev/v1alpha1
+apiVersion: kpt.dev/v1beta1
 kind: Kptfile
 metadata:
   name: pubsub-topic
